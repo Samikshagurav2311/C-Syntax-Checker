@@ -35,7 +35,7 @@ int main(){
 	fileline str[100]; 
 	char str1[100];
 	int totallen,j,i=0,len,found;
-	input=fopen("switch.cpp","r");
+	input=fopen("input.txt","r");
 	while(fgets(str1,100,input)!=NULL){
 		len=strlen(str1); //length of a line
 		found=search(str1,len); //position of comment if exists
