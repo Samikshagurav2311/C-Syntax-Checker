@@ -10,10 +10,4 @@ checker employs lexical analysis and parsing techniques to identify and report s
 errors, ensuring adherence to the rule and structure specified by the C language 
 grammar.
 
-                * Proposed work  :  
-A C syntax checker is a tool that analyzes C code to ensure it follows the correct 
-syntax rules of programming language.It can detect syntax error such as missing 
-semicolons,mismatch parentheses,undeclared variables,and more.The proposed work 
-for a C syntax cheaker would likely involve parsing the code,analyzing its 
-structure,and flagging any violations of the language’s syntax rules.Additionally,it 
-could provide helpful error messages to assist devolopers in debugging their code.   
+                
